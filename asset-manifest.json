@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chat-en-vivo/static/css/main.fda07949.css",
+    "main.js": "/chat-en-vivo/static/js/main.aef9721c.js",
+    "index.html": "/chat-en-vivo/index.html",
+    "main.fda07949.css.map": "/chat-en-vivo/static/css/main.fda07949.css.map",
+    "main.aef9721c.js.map": "/chat-en-vivo/static/js/main.aef9721c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda07949.css",
+    "static/js/main.aef9721c.js"
+  ]
+}
