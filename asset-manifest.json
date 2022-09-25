@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chat-en-vivo/static/css/main.fda07949.css",
-    "main.js": "/chat-en-vivo/static/js/main.aef9721c.js",
+    "main.js": "/chat-en-vivo/static/js/main.d7de55eb.js",
     "index.html": "/chat-en-vivo/index.html",
     "main.fda07949.css.map": "/chat-en-vivo/static/css/main.fda07949.css.map",
-    "main.aef9721c.js.map": "/chat-en-vivo/static/js/main.aef9721c.js.map"
+    "main.d7de55eb.js.map": "/chat-en-vivo/static/js/main.d7de55eb.js.map"
   },
   "entrypoints": [
     "static/css/main.fda07949.css",
-    "static/js/main.aef9721c.js"
+    "static/js/main.d7de55eb.js"
   ]
 }
