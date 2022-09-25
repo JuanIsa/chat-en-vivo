@@ -22,6 +22,7 @@ function App() {
   }, [mensajes]);
   return (
     <div id='principal'>
+      <h1>Chat en vivo</h1>
       Programador Juan Isa
       <form onSubmit={handleSubmit}>
         <input type="text" onChange={e => setMensaje(e.target.value)} value={mensaje} />
