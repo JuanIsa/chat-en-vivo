@@ -1,7 +1,7 @@
 import io from 'socket.io-client';
 import { useState, useEffect } from 'react';
 //https://server-push-production.up.railway.app/
-const socket = io('http://localhost:4000');
+const socket = io('https://server-push-production.up.railway.app/');
 
 function App() {
   const [mensaje, setMensaje] = useState('');
